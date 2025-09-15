@@ -1,0 +1,14 @@
+artifact_uri: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/447258477642190662/d5ba09c0e32f47f4b11f93f88b389fd6/artifacts
+end_time: 1757943377225
+entry_point_name: ''
+experiment_id: '447258477642190662'
+lifecycle_stage: active
+run_id: d5ba09c0e32f47f4b11f93f88b389fd6
+run_name: baseline_churn_analysis
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757943377190
+status: 4
+tags: []
+user_id: mle-user

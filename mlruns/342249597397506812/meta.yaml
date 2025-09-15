@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/342249597397506812
+creation_time: 1757945922859
+experiment_id: '342249597397506812'
+last_update_time: 1757945922859
+lifecycle_stage: active
+name: churn_ssa2

@@ -1,0 +1,7 @@
+,feature_idx,cv_scores,avg_score,feature_names,ci_bound,std_dev,std_err
+1,"(5,)",[0.71491684 0.61928274 0.65384615 0.70348233],0.6728820166320166,"('payment_method_Electronic check',)",0.06176447190997283,0.03853099895634792,0.02224588261959266
+2,"(3, 5)",[0.78813669 0.72407744 0.7218685  0.75487266],0.7472388253638254,"('type_Two year', 'payment_method_Electronic check')",0.04324347812551196,0.02697690693367556,0.015575124480061065
+3,"(2, 3, 5)",[0.83822765 0.78748701 0.77306393 0.78826663],0.7967613045738047,"('type_One year', 'type_Two year', 'payment_method_Electronic check')",0.03958419121232597,0.024694106225228458,0.014257148876532864
+4,"(2, 3, 5, 7)",[0.84426975 0.79170998 0.78950104 0.79736227],0.8057107588357588,"('type_One year', 'type_Two year', 'payment_method_Electronic check', 'internet_service_Fiber optic')",0.03598032552880102,0.022445879362816043,0.012959134492319708
+5,"(2, 3, 4, 5, 7)",[0.84569906 0.79346414 0.7762474  0.7983368 ],0.8034368503118503,"('type_One year', 'type_Two year', 'payment_method_Credit card (automatic)', 'payment_method_Electronic check', 'internet_service_Fiber optic')",0.04126569020384592,0.02574308849422272,0.014862779071911844
+6,"(2, 3, 4, 5, 6, 7)",[0.84641372 0.77858628 0.76988046 0.80061071],0.7988727910602911,"('type_One year', 'type_Two year', 'payment_method_Credit card (automatic)', 'payment_method_Electronic check', 'payment_method_Mailed check', 'internet_service_Fiber optic')",0.04752007267670459,0.02964480734783129,0.017115437502344993
